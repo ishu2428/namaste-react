@@ -1,0 +1,23 @@
+{
+  "name": "react-zero-hero",
+  "version": "1.0.0",
+  "description": "",
+  "homepage": "https://github.com/ishu2428/namaste-react#readme",
+  "bugs": {
+    "url": "https://github.com/ishu2428/namaste-react/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ishu2428/namaste-react.git"
+  },
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "parcel": "^2.16.4"
+  }
+}
